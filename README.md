@@ -1,8 +1,39 @@
-# Naan-Mudhalvan-Full-Stack-Development
+# Project Demo
+[![Alt text](https://img.youtube.com/vi/lXk14qt2D28/0.jpg)](https://www.youtube.com/watch?v=lXk14qt2D28)
 
-Project domain E-commerce website Project description
+## Getting Started
 
-E-commerce website is build based on the spices and grocery items customers are preknowledged with the items that are available in hte stock and can know about details of each items.This website can record the history of what a customer buy and could able to display the previous shopping list Customer satisfaction is satisfied wiht
-suggesting a budget friendly stock.This webite will have the add to cart option that enables the customer to prelist the required items.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Website essentials customer's mobile number Bank details Available balance
+### Prerequisites
+
+NPM / Yarn and Node.js installed
+
+### Installing
+
+Installing NPM modules on both client and server folders
+
+Execute these commands from the project directory
+
+```
+cd client && npm install
+```
+
+```
+cd server && npm install
+```
+
+### Running the app
+
+Open a terminal on server directory
+
+```
+npm run start:dev
+```
+
+and open another terminal on client directory
+```
+npm run start
+```
+
+Access the web app at http://localhost:3000/
