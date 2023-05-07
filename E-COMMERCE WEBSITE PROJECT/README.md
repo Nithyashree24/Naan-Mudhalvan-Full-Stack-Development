@@ -1,4 +1,4 @@
-# Project Demo
+# E-COMMERCE WEBSITE PROJECT
 
 ### Prerequisites
 
